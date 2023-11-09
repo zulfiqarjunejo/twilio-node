@@ -4,6 +4,16 @@ This Node.js project demonstrates how to send an SMS message using the Twilio AP
 
 ## Getting Started
 
+### Twilio setup
+
+1. Register an account on Twilio platform.
+
+2. Register a sender phone number.
+
+3. Securely store the credentials described in next section.
+
+### Project setup
+
 1. Clone this repository to your local machine.
 
 2. Install the project dependencies by running `npm install`.
